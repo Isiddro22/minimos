@@ -1,0 +1,2 @@
+# minimos
+Actividad minimos cuadrados
